@@ -1,0 +1,5 @@
+Process    Arrival_Time      Execution_Time         Distribution
+1            0                   7                   3+5+3+5+1
+2            2                   9                   5+2+4
+3            4                   6                   6
+4            6                   8                   4+1+4
